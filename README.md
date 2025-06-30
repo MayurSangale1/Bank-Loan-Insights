@@ -96,7 +96,7 @@
 
 ## 👨‍💻 Developer
 
-**Faisal Khan**
+**Mayur Sangale**
 
 - 🌐 [Portfolio](https://smayur.netlify.app)
 - 💻 [GitHub](https://github.com/SangaleMayur1)
